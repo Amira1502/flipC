@@ -1,0 +1,2 @@
+DEFINE_NEAR_METHOD(flipCoin)
+DEFINE_NEAR_METHOD(viewPoints)
